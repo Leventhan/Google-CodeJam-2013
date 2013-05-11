@@ -3,10 +3,11 @@ CodeJam Qualification Round Problem Solutions
 The Qualification Round for Code Jam 2013 kicked off on April 12. 
 Here are my submissions for Google's CodeJam problems, written in Java.
 
+------------
 
-Problems:
 
-1. Tic-Tac-Toe-Tomek
+
+**Tic-Tac-Toe-Tomek**
 
 Tic-Tac-Toe-Tomek is a game played on a 4 x 4 square board. The board starts empty, except that a single 'T' symbol may appear in one of the 16 squares. There are two players: X and O. They take turns to make moves, with X starting. In each move a player puts her symbol in one of the empty squares. Player X's symbol is 'X', and player O's symbol is 'O'.
 
@@ -21,7 +22,7 @@ Given a 4 x 4 board description containing 'X', 'O', 'T' and '.' characters (whe
 If there are empty cells, and the game is not over, you should output "Game has not completed", even if the outcome of the game is inevitable.
 
 
-2. Lawnmower
+**Lawnmower**
 
 Alice and Bob have a lawn in front of their house, shaped like an N metre by M metre rectangle. Each year, they try to cut the lawn in some interesting pattern. They used to do their cutting with shears, which was very time-consuming; but now they have a new automatic lawnmower with multiple settings, and they want to try it out.
 
@@ -31,7 +32,7 @@ Alice and Bob have a number of various patterns of grass that they could have on
 
 The grass is initially 100mm high on the whole lawn.
 
-3. Fair and Square
+**Fair and Square**
 
 Little John likes palindromes, and thinks them to be fair (which is a fancy word for nice). A palindrome is just an integer that reads the same backwards and forwards - so 6, 11 and 121 are all palindromes, while 10, 12, 223 and 2244 are not (even though 010=10, we don't consider leading zeroes when determining whether a number is a palindrome).
 
